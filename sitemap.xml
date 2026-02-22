@@ -15,9 +15,18 @@
 		<loc>https://smartcart.dk/presse.html</loc>
 	</url>
 	<url>
-		<loc>https://smartcart.dk/abonnement.html</loc>
+		<loc>https://smartcart.dk/404.html</loc>
 	</url>
 	<url>
-		<loc>https://smartcart.dk/privatlivspolitik.html</loc>
+		<loc>https://smartcart.dk/legal.html</loc>
+	</url>
+	<url>
+		<loc>https://smartcart.dk/assets.html</loc>
+	</url>
+	<url>
+		<loc>https://smartcart.dk/venteliste.html</loc>
+	</url>
+	<url>
+		<loc>https://smartcart.dk/lettereberuset.html</loc>
 	</url>
 </urlset>
